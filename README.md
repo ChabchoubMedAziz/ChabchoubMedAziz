@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aziz Chabchoub</h1>
-<h3 align="left">A Computer science engineer passionate in AI and data science from Tunisia</h3>
+<h3 align="left">A Computer science engineer passionate in AI and data science</h3>
 
 
 - 🔭 I’m currently working on **NLP projects**
