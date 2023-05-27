@@ -2,9 +2,10 @@
 <h3 align="left">A Computer science engineer passionate in AI and data science</h3>
 
 
-- 🔭 I’m currently working on **NLP projects**
+- 🔭 I’m currently working on **a Research paper about Abnormal behaviour detection in surveillance videos using deep learning and transformer architectures.
+*
 
-- 🤝 I’m looking for **End of studies internship**
+- 🤝 I’m looking for **Master's in AI**
 
 - 👨‍💻 All of my projects are available at [xxx](xxx)
 
