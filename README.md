@@ -2,8 +2,7 @@
 <h3 align="left">A Computer science engineer passionate in AI and data science</h3>
 
 
-- 🔭 I’m currently working on **a Research paper about Abnormal behaviour detection in surveillance videos using deep learning and transformer architectures.
-*
+- 🔭 I’m currently working on **a Research paper about Abnormal behaviour detection in surveillance videos using deep learning and transformer architectures.**
 
 - 🤝 I’m looking for **Master's in AI**
 
