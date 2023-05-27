@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **a Research paper about Abnormal behaviour detection in surveillance videos using deep learning and transformer architectures.**
 
-- 🤝 I’m looking for **Master's in AI**
+- 🤝 I’m looking for **Master's degree in AI**
 
 - 👨‍💻 All of my projects are available at [xxx](xxx)
 
