@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for my **First Professional Experience**
 
-- 👨‍💻 All of my projects are available at [xxx](https://zindi.africa/users/Ska3rfon)
+- 👨‍💻 All of my projects are available at (https://zindi.africa/users/Ska3rfon)
 
 - 📫 How to reach me **mohamedaziz.chabchoub@ensi-uma.tn**
 
