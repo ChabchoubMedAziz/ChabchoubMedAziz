@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **a Research paper about Abnormal behaviour detection in surveillance videos using deep learning and transformer architectures.**
 
-- 🤝 I’m looking for **Master's degree in AI**
+- 🤝 I’m looking for my **First Professional Experience**
 
-- 👨‍💻 All of my projects are available at [xxx](xxx)
+- 👨‍💻 All of my projects are available at [[xxx](xxx)](https://zindi.africa/users/Ska3rfon)
 
 - 📫 How to reach me **mohamedaziz.chabchoub@ensi-uma.tn**
 
